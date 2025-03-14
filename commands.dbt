@@ -1,0 +1,3 @@
+dbt debug --profiles-dir /dbtdata-docker-azure/
+dbt seed
+dbt build

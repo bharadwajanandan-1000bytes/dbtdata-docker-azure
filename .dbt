@@ -1,3 +1,0 @@
-dbt debug
-dbt seed
-dbt build
