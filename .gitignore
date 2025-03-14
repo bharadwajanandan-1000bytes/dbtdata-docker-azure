@@ -1,0 +1,15 @@
+target/
+dbt_packages/
+logs/
+
+.history/*
+target
+logs
+.idea
+dbt_modules/*
+.user.yml
+setprofile*
+scartch*
+
+**/.venv
+.venv/
