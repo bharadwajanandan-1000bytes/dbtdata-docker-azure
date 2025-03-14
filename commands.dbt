@@ -1,3 +1,4 @@
 dbt deps
+dbt debug --profiles-dir /mnt/gitrepo/
 dbt seed --profiles-dir /mnt/gitrepo/
 dbt build --profiles-dir /mnt/gitrepo/
